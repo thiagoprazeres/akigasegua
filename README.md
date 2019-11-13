@@ -22,6 +22,6 @@ Seleção do produto, quantidade, local de entrega, meio de pagamento e observa�
 O cliente precisa estar ciente do status do pedido.
 ### Histórico de Pedidos
 Uma lista com pedidos já realizados e uma opção de repeti-los.
-### Equipe
-*Giovanni Veloso da Silva*: Full Stack Developer
-*Thiago Prazeres Bezerra*: Full Stack Designer
+## Equipe
+- **Giovanni Veloso da Silva**: Full Stack Developer
+- **Thiago Prazeres Bezerra**: Full Stack Designer
